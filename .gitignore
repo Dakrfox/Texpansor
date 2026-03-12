@@ -1,0 +1,13 @@
+./dist
+./build
+./__pycache__
+./*.spec
+./*.pyc
+./*.pyo
+./*.pyd
+./*.pyw
+./*.pyz
+./*.pywz
+./*.pyzw
+./*.pyzwz
+./.env
